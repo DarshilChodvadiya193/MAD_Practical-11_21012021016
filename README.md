@@ -1,4 +1,5 @@
-# MAD_Practical-11_21012011072
+# MAD_Practical-11_21012021016
+
 
 Aim:
 Consider Android Application created in Practical-10 and add Sqlite feature such that it is storing data of persons which is received in JSON Format. There should be two buttons: after pressing first button then data of persons loads from sqlite database. After pressing second button, it receives data from network database in JSON format and loads data in ListView or RecyclerView.
