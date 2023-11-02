@@ -18,9 +18,8 @@ Consider Android Application created in Practical-10 and add Sqlite feature such
 
 -> Light Theme :- 
 
-![6](https://github.com/DarshilChodvadiya193/MAD_Practical-11_21012021016/assets/98377643/ade57cf7-882f-46b0-a088-b5fbb5e5e8f7)
-![7](https://github.com/DarshilChodvadiya193/MAD_Practical-11_21012021016/assets/98377643/a51b052c-13c9-4241-8045-f6059db778d8)
-
+ ![6](https://github.com/DarshilChodvadiya193/MAD_Practical-11_21012021016/assets/98377643/2f1c8c15-da0c-43ac-ac06-4ca6fef5b651)
+ ![7](https://github.com/DarshilChodvadiya193/MAD_Practical-11_21012021016/assets/98377643/158611ac-2340-4040-9332-46a7f5915ed2)
 
 
 -> Dark Theme :-
